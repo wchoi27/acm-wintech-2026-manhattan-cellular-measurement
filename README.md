@@ -207,7 +207,7 @@ The repository root holds the docs plus one archive per day:
 .
 ├── README.md                  ← this file
 ├── sessions.csv               ← manifest of all 158 recordings
-├── wintech2026-final5.pdf     ← the paper
+├── wintech2026.pdf            ← the paper
 ├── 20251005.tar.gz            ← one archive per walk day
 ├── 20251207.tar.gz
 │   ...
